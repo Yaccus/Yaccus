@@ -1,4 +1,4 @@
-### Olá! eu sou o Yago Piovarczik 👋
+### Olá! eu sou o Yago Piovarczik
 
 - 🔭 Estou me aperfeiçoando como desenvolvedor front-end
 - 🌱 Estudando Typescript
