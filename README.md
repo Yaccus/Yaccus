@@ -23,6 +23,9 @@
  	<a href="https://www.twitch.tv/yaccus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/559382848667385868" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://linkedin.com/in/yago-piovarczik-278403216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+![Snake animation](https://github.com/yaccus/blob/output/github-contribution-grid-snake.svg)
 
   
   
