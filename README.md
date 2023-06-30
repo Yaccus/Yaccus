@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/yago-piovarczik-278403216" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/yaccus/blob/output/github-contribution-grid-snake.svg)
+
 
   
   
