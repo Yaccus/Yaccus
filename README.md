@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/yaccus">
   <img height="180cm"src="https://github-readme-stats.vercel.app/api?username=yaccus&show_icons=true&theme=dark&iclude_all_commits=true&count+private=true"/>
-  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top.langs/?username=yaccus&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm"src="https://github-readme-stats.vercel.app/api/top.langs/?username=yaccus&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 <div style="display: inline_block"><br>
