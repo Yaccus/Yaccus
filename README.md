@@ -1,6 +1,6 @@
 ### Olá! eu sou o Yago Piovarczik
 
-- 📈 Estou me aperfeiçoando como desenvolvedor front-end
+- 📈 Estou me aperfeiçoando como desenvolvedor back-end
 - 📚 Estudando Typescript
 - 📫 Contate-me no e-mail: yago.piovarczik1@gmail.com
 - 😄 Pronouns: ele/dele
